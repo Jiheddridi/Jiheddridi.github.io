@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jihed-dridi.io/sitemap.xml
